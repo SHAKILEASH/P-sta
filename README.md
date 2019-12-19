@@ -20,7 +20,7 @@ Previous frame and the current frame is compared continuously until the changes 
 
 ## Skills Used
 ###  Library 
-![OpenCv](https://upload.wikimedia.orgwikipediacommonsthumb553OpenCV_Logo_with_text.png195px-OpenCV_Logo_with_text.png)
+![OpenCv](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/195px-OpenCV_Logo_with_text.png)
 ### Language
 ![python](https://www.freepngimg.comthumbpython_logo5-2-python-logo-png-image-thumb.png)
 
