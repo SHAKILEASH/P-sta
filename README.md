@@ -20,13 +20,13 @@ Previous frame and the current frame is compared continuously until the changes 
 
 ## Skills Used
 ###  Library 
-![OpenCv](httpsupload.wikimedia.orgwikipediacommonsthumb553OpenCV_Logo_with_text.png195px-OpenCV_Logo_with_text.png)
+![OpenCv](https://upload.wikimedia.orgwikipediacommonsthumb553OpenCV_Logo_with_text.png195px-OpenCV_Logo_with_text.png)
 ### Language
-![python](httpswww.freepngimg.comthumbpython_logo5-2-python-logo-png-image-thumb.png)
+![python](https://www.freepngimg.comthumbpython_logo5-2-python-logo-png-image-thumb.png)
 
 # Sample
 This an Example on this Písta.
-![ScreenShots](httpsi.imgur.comhbEAQtD.png)
+![ScreenShots](https://i.imgur.com/hbEAQtD.png)
 
 
 ```
