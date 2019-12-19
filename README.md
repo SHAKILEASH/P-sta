@@ -22,7 +22,7 @@ Previous frame and the current frame is compared continuously until the changes 
 ###  Library 
 ![OpenCv](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/195px-OpenCV_Logo_with_text.png)
 ### Language
-![python](https://www.freepngimg.com/thumb/python_logo/5-2-python-logo-png-image-thumb.png)
+![python](https://camo.githubusercontent.com/319c77f52d0ef90ae90152ee32d7f25042cb954d/687474703a2f2f7777772e706e67616c6c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30352f507974686f6e2d4c6f676f2d467265652d446f776e6c6f61642d504e472e706e67)
 
 # Sample
 This an Example on this Písta.
